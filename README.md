@@ -8,7 +8,7 @@
 
 
 ## FA's
-[FA 1]
+[FA 1] (https://github.com/arteries324/readme/blob/main/q1_sg2_a1.md)
 
 [FA 2
 
