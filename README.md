@@ -14,8 +14,8 @@
 
 FA 3 & 4 In [KHub](https://khub.clc.pshs.edu.ph/)
 
-[FA 5](
+[FA 5] (https://github.com/arteries324/readme/blob/main/q1_sg5_a1_Balingkilat_Bermudo.py)
 
-[FA 6]
+[FA 6] (
 
 [FA 7]
