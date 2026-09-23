@@ -4,7 +4,7 @@
 ## Sample Codes
 [Car Sample Code](https://github.com/arteries324/readme/blob/main/q1_mycar_balingkilat_bermudo.py)
 
-[Tusok Tusok Sample Code]
+[Tusok Tusok Sample Code](https://github.com/arteries324/readme/blob/main/q1_tusok_tusok_balingkilat_bermudo.py)
 
 
 ## FA's
