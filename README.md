@@ -2,7 +2,7 @@
 *9-Balingkilat*
 
 ## Sample Codes
-[Car Sample Code]( )
+[Car Sample Code](https://github.com/arteries324/readme/blob/main/q1_mycar_balingkilat_bermudo.py)
 
 [Tusok Tusok Sample Code]
 
