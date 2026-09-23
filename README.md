@@ -10,11 +10,11 @@
 ## FA's
 [FA 1] (https://github.com/arteries324/readme/blob/main/q1_sg2_a1.md)
 
-[FA 2
+[FA 2] (https://github.com/arteries324/readme/blob/main/q1_sg2_a3.py)
 
 FA 3 & 4 In [KHub](https://khub.clc.pshs.edu.ph/)
 
-[FA 5]
+[FA 5](
 
 [FA 6]
 
